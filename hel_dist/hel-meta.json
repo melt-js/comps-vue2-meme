@@ -122,6 +122,27 @@
           "attrs": {
             "src": "/comps-vue2-meme/hel_dist/js/app.ed98387a.js"
           }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/comps-vue2-meme/hel_dist/js/chunk-2c52c863.d515c00a.js"
+          }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/comps-vue2-meme/hel_dist/js/chunk-439ef9d5.688490b2.js"
+          }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/comps-vue2-meme/hel_dist/js/export-tier.js"
+          }
         }
       ],
       "otherSrcList": [
@@ -129,6 +150,6 @@
         "/comps-vue2-meme/hel_dist/index.html"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>comps-vue2-meme</title><script src=\"https://unpkg.com/vue@2.7.16/dist/vue.min.js\"></script><link href=\"/comps-vue2-meme/hel_dist/css/chunk-2c52c863.fb690dec.css\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/css/chunk-439ef9d5.fb690dec.css\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/js/chunk-2c52c863.d515c00a.js\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/js/chunk-439ef9d5.688490b2.js\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/js/app.ed98387a.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-meme/hel_dist/js/runtime.ae8047e7.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-meme/hel_dist/js/vendor.022e6155.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2-meme doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2-meme/hel_dist/js/runtime.ae8047e7.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/vendor.022e6155.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/app.ed98387a.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>comps-vue2-meme</title><script src=\"https://unpkg.com/vue@2.7.16/dist/vue.min.js\"></script><link href=\"/comps-vue2-meme/hel_dist/css/chunk-2c52c863.fb690dec.css\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/css/chunk-439ef9d5.fb690dec.css\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/js/chunk-2c52c863.d515c00a.js\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/js/chunk-439ef9d5.688490b2.js\" rel=\"prefetch\"><link href=\"/comps-vue2-meme/hel_dist/js/app.ed98387a.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-meme/hel_dist/js/runtime.ae8047e7.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-meme/hel_dist/js/vendor.022e6155.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2-meme doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2-meme/hel_dist/js/runtime.ae8047e7.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/vendor.022e6155.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/app.ed98387a.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/chunk-2c52c863.d515c00a.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/chunk-439ef9d5.688490b2.js\"></script><script src=\"/comps-vue2-meme/hel_dist/js/export-tier.js\"></script></body></html>"
   }
 }
